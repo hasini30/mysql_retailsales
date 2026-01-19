@@ -1,5 +1,10 @@
 # Retail Sales Analysis — SQL Project
 
+Project Title: Retail Sales Analysis — MySQL Project
+Tools: MySQL, Excel
+Domain: Retail & Business Analytics
+
+
 ## 🧾 Overview
 
 This project showcases end-to-end SQL skills for retail sales analytics — including database exploration, cleaning, business queries, and insight generation. It simulates a real retail analytics task commonly seen in data analyst roles.
