@@ -207,6 +207,8 @@ Such analytical workflows are foundational for data analyst roles in retail, e-c
 
 ## 👤 Author
 
-**Hasini Nadella**
+**Hasini **
 
 Aspiring Data Analyst with interest in SQL, Analytics, and Business Intelligence.
+📧 Gmail:nadellahasini@gmail.com
+🔗 LinkedIn:www.linkedin.com/in/hasini-nadella30
