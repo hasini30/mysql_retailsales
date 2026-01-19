@@ -1,8 +1,7 @@
 # Retail Sales Analysis — SQL Project
-
-Project Title: Retail Sales Analysis — MySQL Project
-Tools: MySQL, Excel
-Domain: Retail & Business Analytics
+**Project Title:** Retail Sales Analysis  
+**Domain:** Retail & Business Analytics  
+**Tools Used:** MySQL, Excel  
 
 
 ## 🧾 Overview
